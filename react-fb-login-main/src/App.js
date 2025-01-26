@@ -24,7 +24,7 @@ function App() {
             <>
               <h3>Login with Facebook</h3>
               <FacebookLogin
-                appId="516518647986597"
+                appId="1002274921747938"
                 autoLoad={false}
                 fields="name,email,picture"
                 callback={responseFacebook}
